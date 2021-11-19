@@ -1,19 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37fa162-f994-4c55-8b7c-f11e8d7170e6" name="Default Changelist" comment="" />
+    <list default="true" id="a37fa162-f994-4c55-8b7c-f11e8d7170e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ComposeFest2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/0/0/00f0ca448a27b2c98994f225e993ca820dbef945" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/3/9/39e936150d78f8c1a68d4c256bc8e60a3cb2587a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/8/c/8c11228a051deb39127321dbe9eb2ba38c3ca093" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/androidTest/java/com/codelab/layouts/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/com/codelab/layouts/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/com/codelab/layouts/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/com/codelab/layouts/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/com/codelab/layouts/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/com/codelab/layouts/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/test/java/com/codelab/layouts/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/week 1-Jetpack Compose basics/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="218ZXQsNwGxOsHAuxFgGPkYZwrc" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/week 1-Jetpack Compose basics" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37fa162-f994-4c55-8b7c-f11e8d7170e6" name="Default Changelist" comment="" />
+      <created>1637324713508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637324713508</updated>
+    </task>
     <servers />
   </component>
 </project>
